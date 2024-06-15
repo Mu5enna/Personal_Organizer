@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|c:\\users\\eren\\desktop\\personal_organizer\\personal_organizer_oop_project\\personal_organizer_oop_project\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:personal_organizer_oop_project\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\LoginScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\LoginScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\UsersForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\UsersForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\UsersForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\UsersForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Salary_Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Salary_Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Salary_Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Salary_Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\Notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{724ABC2D-B052-4DB4-A271-3A04582C21C2}|Personal_Organizer_OOP_Project\\Personal_Organizer.csproj|solutionrelative:Personal_Organizer_OOP_Project\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{904ea1b4-c6a7-4eca-94a1-76eab06c5187}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:17:23.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\LoginScreen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:55:24.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Program.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:50:03.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:49:22.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\UsersForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:49:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salary_Calc.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:46:26.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salary_Calc.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Salary_Calc.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:46:25.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Reminder.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Reminder.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Reminder.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Reminder.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:46:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Reminder.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Reminder.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Reminder.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Reminder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:46:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Phonebook.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Phonebook.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Phonebook.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Notes.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Notes.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Notes.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Notes.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:22.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Notes.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\Notes.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\Notes.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\Notes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\MainForm.cs",
+              "RelativeDocumentMoniker": "Personal_Organizer_OOP_Project\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Personal_Organizer\\Personal_Organizer_OOP_Project\\Personal_Organizer_OOP_Project\\MainForm.cs",
+              "RelativeToolTip": "Personal_Organizer_OOP_Project\\MainForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:44:14.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
